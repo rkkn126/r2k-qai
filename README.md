@@ -20,6 +20,7 @@ An open-source, AI-powered test scenario generator for QA teams. It converts use
 Push daily ERP sales data to a data warehouse and pull summarized reports via a dashboard.
 
 ## How to Run
-Down load pythin code & Run App.py file from your local 
+Download python code app.py & Run the file from your local - Make sure use your API key
+This code is used model": "mistralai/mistral-7b-instruct:free"
 cd ai-test-scenario-generator
 
