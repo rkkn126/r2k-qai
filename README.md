@@ -5,6 +5,9 @@ Transforming QA with AI: My Open-Source Test Scenario Generator
 
 An open-source, AI-powered test scenario generator for QA teams. It converts user requirements into risk-based, categorized test scenarios with AI-driven recommendations.
 
+<img width="1920" height="883" alt="image" src="https://github.com/user-attachments/assets/6f5bbe00-0fd3-40c2-9b2b-d579853dca0e" />
+
+
 ## Features
 - Risk-based test strategy
 - Automation vs manual test categorization
