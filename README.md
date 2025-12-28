@@ -23,4 +23,5 @@ Push daily ERP sales data to a data warehouse and pull summarized reports via a 
 Download python code app.py & Run the file from your local - Make sure use your API key
 This code is used model": "mistralai/mistral-7b-instruct:free"
 cd ai-test-scenario-generator
+run : streamlit run R2K_QAI.py --server.port 8501
 
